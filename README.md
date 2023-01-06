@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A passionate game developer from Turkey</h3>
+<h3 align="center">A passionate Game Developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/314873/screenshots/4000731/media/aba28d189b666b529e9e012166218c44.gif">
 
 <p align="left"> <a href="https://twitter.com/badurahmed" target="blank"><img src="https://img.shields.io/twitter/follow/badurahmed?logo=twitter&style=for-the-badge" alt="badurahmed" /></a> </p>
