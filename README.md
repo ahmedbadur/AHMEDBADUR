@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A passionate Game Developer from Turkey</h3>
+<h3 align="center">A passionate DevOps from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/314873/screenshots/4000731/media/aba28d189b666b529e9e012166218c44.gif">
 
-- 🔭 I’m currently working on **UI Design**
+- 🔭 I’m currently working on **Bestcloudforme**
 
-- 🌱 I’m currently learning **UNITY**
-
-- 👯 I’m looking to collaborate on **with Game Developers**
+- 🌱 I’m currently learning **AWS Cloud and Google Cloud**
 
 - 💬 Ask me about **anything you're curious about**
 
